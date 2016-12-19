@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">cxMud</string>
+    <string name="edit_name">Your name</string>
+    <string name="btn_submit">Submit quiz</string>
+    <string name="lbl_quiz">Questions:</string>
+    <string name="lbl_name">Your name:</string>
+
+
+    <!-- label for question one -->
+    <string name="lbl_questionOne">Who is the reigning cx elite world champion?</string>
+
+    <!-- answers for question one -->
+    <string name="questionOne_VanAert">Wout Van Aert</string>
+    <string name="questionOne_Nys">Sven Nys</string>
+    <string name="questionOne_Pauwels">Kevin Pauwels</string>
+    <string name="questionOne_Boonen">Tom Boonen</string>
+
+    <!-- label for question two -->
+    <string name="lbl_questionTwo">Who is the n°1 American on the cx uci ranking?</string>
+
+    <!-- answers for question two -->
+    <string name="questionTwo_Hyde">Stephen Hyde</string>
+    <string name="questionTwo_White">Curtis White</string>
+    <string name="questionTwo_Ortenblad">Tobin Ortenblad</string>
+    <string name="questionTwo_Powers">Jeremy Powers</string>
+
+    <!-- label for question three -->
+    <string name="lbl_questionThree">How long does a cx race takes (in minutes)?</string>
+
+    <string name="edit_yourAnswer">Your answer</string>
+
+    <!-- label for question four -->
+    <string name="lbl_questionFour">Is cx an olympic discipline?</string>
+
+    <!-- answers for question four -->
+    <string name="questionFour_Yes">Hell yeah</string>
+    <string name="questionFour_No">F*ck no</string>
+
+    <!-- label for question five -->
+    <string name="lbl_questionFive">Which races are part of DVV Verzekeringen?</string>
+
+    <!-- answers for question five -->
+    <string name="questionFive_Koppenberg">Koppenbergcross</string>
+    <string name="questionFive_Vegas">Las Vegas</string>
+    <string name="questionFive_Essen">CX Essen</string>
+    <string name="questionFive_Namen">Namur</string>
+
+</resources>
